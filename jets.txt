@@ -1,4 +1,5 @@
 HotAirBalloon, Nimbus, 100.2, 75, 120000
 CargoPlane, C-130, 400, 1200, 2400000
 FighterJet, F-35, 900, 3000, 35000000
-PropPlane, Cessna, 220, 300, 400000
+CargoPlane, Cessna, 220, 300, 400000
+FighterJet, Elon Bezos, 5000, 100000, 200000000
